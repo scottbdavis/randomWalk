@@ -1,6 +1,6 @@
 # randomWalk
 
-**Name: MIT Web Dev Exercise for Week 4 (files are labeled Week 3 due to MIT starting with 0 week)
+###Name: MIT Web Dev Exercise for Week 4 (files are labeled Week 3 due to MIT starting with 0 week)
 
 Description: Excercise to build a ball that will move randomly across page - like walking
 
